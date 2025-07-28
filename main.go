@@ -10,9 +10,9 @@ import (
 )
 
 const (
-	TileSize     int = 16
-	WindowWidth      = 1024
-	WindowHeight     = 768
+	TileSize     = 16
+	WindowWidth  = 1024
+	WindowHeight = 768
 
 	CameraWidth = 800
 	CameraEight = 600
